@@ -1,4 +1,4 @@
-Oi, sou Layrton, tenho 22 anos <p>
+<h1> Oi, sou Layrton </h1> <p>
 Atualmente estudando JavaScript / React.js / Node.js /
 <div>
   <a href="https://github.com/layrtu">
